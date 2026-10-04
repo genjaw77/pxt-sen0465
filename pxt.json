@@ -1,0 +1,12 @@
+{
+    "name": "sen0465",
+    "version": "0.0.1",
+    "description": "Extension MakeCode pour le capteur SEN0465",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "sen0465.ts"
+    ]
+}
